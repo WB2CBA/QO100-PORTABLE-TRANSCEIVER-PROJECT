@@ -1,0 +1,8 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,100uF/50V,CP_Elec_6.3x7.7,94.8,-138.2,180,top
+C2,1000uF/16V,CP_Elec_10x10.5,83.9,-159.9,0,top
+D1,SS34,D_SMA,69.1,-147.1,0,top
+D3,SS34,D_SMA,92.1,-146.7,270,top
+L1,100uH,L_Bourns-SRN8040_8x8.15mm-MOD,82.9,-145.7,270,top
+R1,1k,R_0805_2012Metric,57,-162,180,top
+U2,LM2576S-5,TO-263-5_TabPin3,103.45,-147.625,0,top
